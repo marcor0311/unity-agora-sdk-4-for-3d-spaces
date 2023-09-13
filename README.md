@@ -44,7 +44,7 @@ For VR project:
 - Create another Raw Image for the local video named "LocalView" and position it outside the scene because in the VR project it is not needed (this is just for the script to work)
 
 Canvas should look something like this in both projects
-![PhotonVR-SampleScene-Android-Unity-2021 3 5f1-Personal-_DX11_-2023-09-12-23-29-22](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces/assets/110083517/07bfcf60-68b6-4013-b99d-1196cb04374f)
+![PhotonVR-SampleScene-Android-Unity-2021 3 5f1-Personal-_DX11_-2023-09-12-23-29-22](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces/assets/110083517/474f266b-e8d2-47b5-9dc5-86dc80b35757)
 (The plane is optional, I will be using it only for the demonstration, this means it is not required)
 
 ### 3. Script
@@ -62,4 +62,4 @@ private string _channelName = "";
 private string _token = "";
 ```
 # Video of the final result
-![Photon-PC-SampleScene-Windows_-Mac_-Linux-Unity-2021 3 5f1-Personal-_DX11_-2023-09-13-00-57-02](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces/assets/110083517/3bb4bf64-1f83-466d-9be8-384a8b0acb8d)
+![Photon-PC-SampleScene-Windows_-Mac_-Linux-Unity-2021 3 5f1-Personal-_DX11_-2023-09-13-00-57-02](https://github.com/marcor0311/unity-agora-sdk-4-for-3d-spaces/assets/110083517/f024cb10-4dcb-4c86-9895-c939e07a01a1)
