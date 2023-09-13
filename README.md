@@ -66,4 +66,4 @@ private string _token = "";
 (Now this video is shared between the two projects :) )
 
 
-Return to the main repository: [Unity Essentials Repository]((https://github.com/marcor0311/Unity-Essentials)https://github.com/marcor0311/Unity-Essentials)
+Return to the main repository: [Unity Essentials Repository](https://github.com/marcor0311/Unity-Essentials)https://github.com/marcor0311/Unity-Essentials)
